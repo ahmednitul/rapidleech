@@ -5,3 +5,5 @@
   @ Add another checkbox in options to "remember settings" so their last configuration will always be saved and served, so won't need to enable "server side" and "concurrent downloads" every-time.
 
   @ Create a theme/template - simplified, slick & elegent.
+  
+  @ Remove 'captcha' when downloading files from openload directly, simply do 'wait lock' then starts the download...
